@@ -1,4 +1,5 @@
 # food_eatmore
+NOTE: This is just a AdobeXD project, this app isn't responsive.
 
 A new Flutter project.
 
